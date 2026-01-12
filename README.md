@@ -9,7 +9,8 @@
 
 A Python automation script that tracks birthdays from a database and sends personalized email wishes automatically. Never miss a friend's birthday again!
 
-![Project Banner]
+Here is sample output :
+
 (<img width="436" height="142" alt="Image" src="https://github.com/user-attachments/assets/254a2b0a-3130-41d7-895f-dadd59fc4059" />) 
 
 
