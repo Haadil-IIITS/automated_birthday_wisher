@@ -39,7 +39,7 @@ letter=f.read()
 letter=letter.replace("[name]",names)
 
 email = "moviebox1123@gmail.com"
-password = "ojooyjuacjzzhtku"
+password = "*******************"
 senderemail=birth_day.email
 connection=smtplib.SMTP("smtp.gmail.com")
 connection.starttls()
