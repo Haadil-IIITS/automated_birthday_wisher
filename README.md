@@ -11,7 +11,7 @@ A Python automation script that tracks birthdays from a database and sends perso
 
 Here is sample output :
 
-(<img width="436" height="142" alt="Image" src="https://github.com/user-attachments/assets/254a2b0a-3130-41d7-895f-dadd59fc4059" />) 
+<img width="436" height="142" alt="Image" src="https://github.com/user-attachments/assets/254a2b0a-3130-41d7-895f-dadd59fc4059" />
 
 
 ## 📝 Description
